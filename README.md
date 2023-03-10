@@ -1,5 +1,7 @@
 # A simple script to create a cropped image and its mapped json label coordinates. 
 
+Modify the images and annotations folder in line 56 and 57 respectively and then run the python file.
+
 The cropped and updated json file is stored in **updated** folder.
 
 ## Sample Result
